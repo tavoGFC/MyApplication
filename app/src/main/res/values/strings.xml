@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen_activity_sing_up">FullscreenActivitySingUp</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_log_in">LogIn</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_welcome_new_user">WelcomeNewUser</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
